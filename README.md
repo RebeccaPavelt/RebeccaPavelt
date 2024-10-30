@@ -2,7 +2,7 @@
 
 
 ## Where I'm at:
-- I am a **Junior Web Developer**, focused on the Frontend **(Javascript, React, Next)**, with basic knowledge of the Backend **(MongoDB, mongoose)**. 
+- I am a **Junior Web Developer**, focused on the Frontend **(Javascript, React, Next.js)**, with basic knowledge of the Backend **(MongoDB, mongoose)**. 
 - I am **very curious about** a deeper knowledge of the Backend (eg. **PHP**) and expanding my skills in the Frontend (**Typescript**).
 - What **I love** about programming: you always **keep on learning** and you **keep on being challenged**! 
 
